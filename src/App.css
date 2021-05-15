@@ -65,6 +65,11 @@
   max-width: 100%;
 }
 
+.preview code {
+  background-color: #fff;
+  max-width: 100%;
+}
+
 .footer {
   padding: 20px;
   font-size: larger;
